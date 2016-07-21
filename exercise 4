@@ -1,0 +1,8 @@
+var newpar = document.createElement("p")
+undefined
+var partext = document.createTextNode("the foopa is strong with this one");
+undefined
+newpar.appendChild(partext);
+"the foopa is strong with this one"
+pageNode.appendChild(newpar);
+<p>​the foopa is strong with this one​</p>​
