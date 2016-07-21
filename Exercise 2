@@ -1,0 +1,5 @@
+var img = document.getElement("hplogo");
+image.width = 400px;
+
+var img = documet.getElement ("aLogo")
+"image = src "http://powderedwigsociety.com/wp-content/uploads/2016/02/socialist-bernie-sanders.jpg";
